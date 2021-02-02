@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PP.Dominio.Repositorio\PP.Dominio.Repositorio.csproj" />
+    <ProjectReference Include="..\PP.Infraestructura.Context\PP.Infraestructura.Context.csproj" />
+    <ProjectReference Include="..\PP.IServicio\PP.IServicio.csproj" />
+    <ProjectReference Include="..\PP.MaperProfiles\PP.MaperProfiles.csproj" />
+    <ProjectReference Include="..\PP.ServicioBase\PP.ServicioBase.csproj" />
+  </ItemGroup>
+
+</Project>

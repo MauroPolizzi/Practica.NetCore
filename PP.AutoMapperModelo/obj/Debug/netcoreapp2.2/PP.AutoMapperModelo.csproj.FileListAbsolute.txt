@@ -1,0 +1,5 @@
+C:\Users\Mauro Polizzi\Documents\Visual Studio 2019\Projects\Practica.Net_Core\PP.AutoMapperModelo\bin\Debug\netcoreapp2.2\PP.AutoMapperModelo.deps.json
+C:\Users\Mauro Polizzi\Documents\Visual Studio 2019\Projects\Practica.Net_Core\PP.AutoMapperModelo\bin\Debug\netcoreapp2.2\PP.AutoMapperModelo.dll
+C:\Users\Mauro Polizzi\Documents\Visual Studio 2019\Projects\Practica.Net_Core\PP.AutoMapperModelo\obj\Debug\netcoreapp2.2\PP.AutoMapperModelo.csproj.CoreCompileInputs.cache
+C:\Users\Mauro Polizzi\Documents\Visual Studio 2019\Projects\Practica.Net_Core\PP.AutoMapperModelo\obj\Debug\netcoreapp2.2\PP.AutoMapperModelo.AssemblyInfoInputs.cache
+C:\Users\Mauro Polizzi\Documents\Visual Studio 2019\Projects\Practica.Net_Core\PP.AutoMapperModelo\obj\Debug\netcoreapp2.2\PP.AutoMapperModelo.AssemblyInfo.cs

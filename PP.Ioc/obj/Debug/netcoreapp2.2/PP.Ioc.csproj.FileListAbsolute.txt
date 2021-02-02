@@ -1,0 +1,5 @@
+C:\Users\Mauro Polizzi\Documents\Visual Studio 2019\Projects\Practica.Net_Core\PP.Ioc\bin\Debug\netcoreapp2.2\PP.Ioc.deps.json
+C:\Users\Mauro Polizzi\Documents\Visual Studio 2019\Projects\Practica.Net_Core\PP.Ioc\bin\Debug\netcoreapp2.2\PP.Ioc.dll
+C:\Users\Mauro Polizzi\Documents\Visual Studio 2019\Projects\Practica.Net_Core\PP.Ioc\obj\Debug\netcoreapp2.2\PP.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\Mauro Polizzi\Documents\Visual Studio 2019\Projects\Practica.Net_Core\PP.Ioc\obj\Debug\netcoreapp2.2\PP.Ioc.AssemblyInfoInputs.cache
+C:\Users\Mauro Polizzi\Documents\Visual Studio 2019\Projects\Practica.Net_Core\PP.Ioc\obj\Debug\netcoreapp2.2\PP.Ioc.AssemblyInfo.cs

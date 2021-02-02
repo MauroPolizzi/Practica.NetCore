@@ -1,0 +1,5 @@
+C:\Users\Mauro Polizzi\Documents\Visual Studio 2019\Projects\Practica.Net_Core\PP.MaperProfiles\bin\Debug\netcoreapp2.2\PP.MaperProfiles.deps.json
+C:\Users\Mauro Polizzi\Documents\Visual Studio 2019\Projects\Practica.Net_Core\PP.MaperProfiles\bin\Debug\netcoreapp2.2\PP.MaperProfiles.dll
+C:\Users\Mauro Polizzi\Documents\Visual Studio 2019\Projects\Practica.Net_Core\PP.MaperProfiles\obj\Debug\netcoreapp2.2\PP.MaperProfiles.csproj.CoreCompileInputs.cache
+C:\Users\Mauro Polizzi\Documents\Visual Studio 2019\Projects\Practica.Net_Core\PP.MaperProfiles\obj\Debug\netcoreapp2.2\PP.MaperProfiles.AssemblyInfoInputs.cache
+C:\Users\Mauro Polizzi\Documents\Visual Studio 2019\Projects\Practica.Net_Core\PP.MaperProfiles\obj\Debug\netcoreapp2.2\PP.MaperProfiles.AssemblyInfo.cs

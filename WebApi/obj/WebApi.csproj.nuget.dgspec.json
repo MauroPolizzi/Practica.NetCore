@@ -1,0 +1,513 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\WebApi\\WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Aplicacion.ConectionString\\PP.Aplicacion.ConectionString.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Aplicacion.ConectionString\\PP.Aplicacion.ConectionString.csproj",
+        "projectName": "PP.Aplicacion.ConectionString",
+        "projectPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Aplicacion.ConectionString\\PP.Aplicacion.ConectionString.csproj",
+        "packagesPath": "C:\\Users\\Mauro Polizzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Aplicacion.ConectionString\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mauro Polizzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Dominio.Base\\PP.Dominio.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Dominio.Base\\PP.Dominio.Base.csproj",
+        "projectName": "PP.Dominio.Base",
+        "projectPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Dominio.Base\\PP.Dominio.Base.csproj",
+        "packagesPath": "C:\\Users\\Mauro Polizzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Dominio.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mauro Polizzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Dominio.Entidades\\PP.Dominio.Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Dominio.Entidades\\PP.Dominio.Entidades.csproj",
+        "projectName": "PP.Dominio.Entidades",
+        "projectPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Dominio.Entidades\\PP.Dominio.Entidades.csproj",
+        "packagesPath": "C:\\Users\\Mauro Polizzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Dominio.Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mauro Polizzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Dominio.Base\\PP.Dominio.Base.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Dominio.Base\\PP.Dominio.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Infraestructura.Context\\PP.Infraestructura.Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Infraestructura.Context\\PP.Infraestructura.Context.csproj",
+        "projectName": "PP.Infraestructura.Context",
+        "projectPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Infraestructura.Context\\PP.Infraestructura.Context.csproj",
+        "packagesPath": "C:\\Users\\Mauro Polizzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Infraestructura.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mauro Polizzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Aplicacion.ConectionString\\PP.Aplicacion.ConectionString.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Aplicacion.ConectionString\\PP.Aplicacion.ConectionString.csproj"
+              },
+              "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Dominio.Entidades\\PP.Dominio.Entidades.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Dominio.Entidades\\PP.Dominio.Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.IServicio\\PP.IServicio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.IServicio\\PP.IServicio.csproj",
+        "projectName": "PP.IServicio",
+        "projectPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.IServicio\\PP.IServicio.csproj",
+        "packagesPath": "C:\\Users\\Mauro Polizzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.IServicio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mauro Polizzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Servicio.Dtos\\PP.Servicio.Dtos.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Servicio.Dtos\\PP.Servicio.Dtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Servicio.Dtos\\PP.Servicio.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Servicio.Dtos\\PP.Servicio.Dtos.csproj",
+        "projectName": "PP.Servicio.Dtos",
+        "projectPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Servicio.Dtos\\PP.Servicio.Dtos.csproj",
+        "packagesPath": "C:\\Users\\Mauro Polizzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Servicio.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mauro Polizzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Dominio.Entidades\\PP.Dominio.Entidades.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Dominio.Entidades\\PP.Dominio.Entidades.csproj"
+              },
+              "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.ServicioBase\\PP.ServicioBase.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.ServicioBase\\PP.ServicioBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.ServicioBase\\PP.ServicioBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.ServicioBase\\PP.ServicioBase.csproj",
+        "projectName": "PP.ServicioBase",
+        "projectPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.ServicioBase\\PP.ServicioBase.csproj",
+        "packagesPath": "C:\\Users\\Mauro Polizzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.ServicioBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mauro Polizzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\WebApi\\WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\WebApi\\WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\Mauro Polizzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mauro Polizzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Dominio.Entidades\\PP.Dominio.Entidades.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Dominio.Entidades\\PP.Dominio.Entidades.csproj"
+              },
+              "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Infraestructura.Context\\PP.Infraestructura.Context.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.Infraestructura.Context\\PP.Infraestructura.Context.csproj"
+              },
+              "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.IServicio\\PP.IServicio.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Documents\\Visual Studio 2019\\Projects\\Practica.Net_Core\\PP.IServicio\\PP.IServicio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
